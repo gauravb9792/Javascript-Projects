@@ -4,7 +4,7 @@ This project is built using JavaScript, HTML, and CSS. It demonstrates [briefly 
 Features
 Interactive UI with JavaScript
 Responsive design using HTML and CSS
-Technologies Used
+# Technologies Used
 HTML
 CSS
 JavaScript
